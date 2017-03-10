@@ -1,0 +1,3 @@
+#!/bin/sh
+# copy this file to "run" and fill in the token
+SLACK_BOT_TOKEN="<token>" node bot.js
